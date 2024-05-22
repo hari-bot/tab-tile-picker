@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your "Tab Title Picker" Chrome extension:
-
----
-
 # Tab Title Picker
 
 The Tab Title Picker is a simple Chrome extension that allows users to quickly retrieve and display the title of the current tab in their Chrome browser. With just a click of a button, users can see the title of the webpage they are currently viewing directly in the extension's popup.
